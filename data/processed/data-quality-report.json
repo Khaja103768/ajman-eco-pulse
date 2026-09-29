@@ -1,0 +1,19 @@
+{
+  "project": "Ajman Eco-Pulse",
+  "sources": {
+    "district_composition": "waste-composition-by-district.csv",
+    "historical_waste": "quantity-of-liquid-and-solid-wastes.csv",
+    "district_geography": "waste-composition-by-district.geojson"
+  },
+  "raw_row_counts": {
+    "district_composition": 405,
+    "historical_waste": 137,
+    "geojson_features": 405
+  },
+  "notes": [
+    "Raw source files are preserved unchanged.",
+    "Processed files are generated separately.",
+    "Historical duplicate observations require validation before removal.",
+    "No ambiguous historical values are automatically discarded."
+  ]
+}

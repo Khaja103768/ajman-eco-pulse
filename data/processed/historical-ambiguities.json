@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2020-06",
+    "year": 2020,
+    "month": "June",
+    "observations": [
+      {
+        "quantity": 81009.0,
+        "raw_quantity": "81009.0"
+      },
+      {
+        "quantity": 81535.5,
+        "raw_quantity": "81535.5"
+      }
+    ],
+    "status": "duplicate-requires-review"
+  },
+  {
+    "date": "2020-07",
+    "year": 2020,
+    "month": "July",
+    "observations": [
+      {
+        "quantity": 83927.0,
+        "raw_quantity": "83927.0"
+      },
+      {
+        "quantity": 81009.0,
+        "raw_quantity": "81009.0"
+      }
+    ],
+    "status": "duplicate-requires-review"
+  },
+  {
+    "date": "2020-08",
+    "year": 2020,
+    "month": "August",
+    "observations": [
+      {
+        "quantity": 83927.0,
+        "raw_quantity": "83927.0"
+      },
+      {
+        "quantity": 93659.2,
+        "raw_quantity": "93659.2"
+      }
+    ],
+    "status": "duplicate-requires-review"
+  },
+  {
+    "date": "2023-05",
+    "year": 2023,
+    "month": "May",
+    "observations": [
+      {
+        "quantity": 99707.4,
+        "raw_quantity": "99707.4"
+      },
+      {
+        "quantity": 105903.9,
+        "raw_quantity": "105903.9"
+      }
+    ],
+    "status": "duplicate-requires-review"
+  },
+  {
+    "date": "2023-06",
+    "year": 2023,
+    "month": "June",
+    "observations": [
+      {
+        "quantity": 89104.0,
+        "raw_quantity": "89104.0"
+      },
+      {
+        "quantity": 94329.4,
+        "raw_quantity": "94329.4"
+      }
+    ],
+    "status": "duplicate-requires-review"
+  }
+]

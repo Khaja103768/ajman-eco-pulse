@@ -1,0 +1,2432 @@
+[
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 8.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 5.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 1.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Organic Items",
+    "percentage": 40.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 5.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Electronic items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 3.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 20.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 19.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 18.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 3.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 4.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Electronic items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 6.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 15.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 7.000000000000001
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Steel Items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 3.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Organic Items",
+    "percentage": 28.000000000000004
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Steel Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Organic Items",
+    "percentage": 40.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 5.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 8.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 34.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 14.000000000000002
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 5.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Steel Items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 20.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Organic Items",
+    "percentage": 24.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 5.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 16.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 20.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Organic Items",
+    "percentage": 24.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 9.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 17.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Glass Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 10.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 13.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 4.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Agriculture Waste",
+    "percentage": 2.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 9.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Steel Items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Organic Items",
+    "percentage": 28.000000000000004
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 9.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 18.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 3.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 13.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Glass Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Steel Items",
+    "percentage": 12.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 8.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Agriculture Waste",
+    "percentage": 5.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 9.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 2.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 13.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Glass Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 14.000000000000002
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 5.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Organic Items",
+    "percentage": 23.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 17.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Glass Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 18.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Organic Items",
+    "percentage": 27.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 6.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 10.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Glass Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Steel Items",
+    "percentage": 12.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 11.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 7.000000000000001
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 0.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 17.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Steel Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Organic Items",
+    "percentage": 24.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 5.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Glass Items",
+    "percentage": 4.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Electronic items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 6.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Agriculture Waste",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Electronic items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 8.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 14.000000000000002
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Steel Items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Organic Items",
+    "percentage": 24.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 3.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Organic Items",
+    "percentage": 24.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 5.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Steel Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 8.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 10.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 17.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 5.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 5.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 49.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Organic Items",
+    "percentage": 16.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Agriculture Waste",
+    "percentage": 1.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Electronic items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Steel Items",
+    "percentage": 12.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Organic Items",
+    "percentage": 34.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 9.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 19.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 9.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Steel Items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Organic Items",
+    "percentage": 27.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 6.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 10.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 4.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 0.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Organic Items",
+    "percentage": 34.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 2.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 8.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 7.000000000000001
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 11.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Steel Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Electronic items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 8.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 3.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 7.000000000000001
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Steel Items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Organic Items",
+    "percentage": 28.000000000000004
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 9.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 10.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 10.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Organic Items",
+    "percentage": 34.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 2.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 8.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 34.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 4.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Steel Items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 1.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Steel Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Organic Items",
+    "percentage": 16.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Electronic items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 19.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 9.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 3.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Glass Items",
+    "percentage": 4.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Steel Items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Agriculture Waste",
+    "percentage": 4.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Electronic items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 4.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Agriculture Waste",
+    "percentage": 2.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 8.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 10.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 25.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Glass Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 0.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 12.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 20.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 19.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 9.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Steel Items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Organic Items",
+    "percentage": 27.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 4.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 17.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Organic Items",
+    "percentage": 16.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 16.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 3.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 6.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 9.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 10.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 8.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 16.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 4.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 6.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Steel Items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 10.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 7.000000000000001
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 11.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Steel Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 10.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 5.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Steel Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Agriculture Waste",
+    "percentage": 5.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 3.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 6.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 8.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Glass Items",
+    "percentage": 4.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 8.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 11.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 5.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Glass Items",
+    "percentage": 6.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 0.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 10.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 5.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 14.000000000000002
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 3.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 4.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Steel Items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 10.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 4.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Rawdha",
+    "district_ar": "الروضة 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 8.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 17.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Organic Items",
+    "percentage": 24.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 5.0
+  },
+  {
+    "district": "Yasmeen",
+    "district_ar": "الياسمين",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 9.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Glass Items",
+    "percentage": 4.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Steel Items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Organic Items",
+    "percentage": 27.0
+  },
+  {
+    "district": "Humaideya",
+    "district_ar": "الحميدية 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 22.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Ajman Industrial",
+    "district_ar": "عجمان الصناعية 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 7.000000000000001
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 4.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Electronic items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 1",
+    "district_ar": "محمد بن زايد 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 3.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 10.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 4.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Organic Items",
+    "percentage": 23.0
+  },
+  {
+    "district": "Jurf Industrial",
+    "district_ar": "الجرف الصناعية 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 0.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 17.0
+  },
+  {
+    "district": "Al Heliow",
+    "district_ar": "الحليو 1",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 6.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Organic Items",
+    "percentage": 24.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 9.0
+  },
+  {
+    "district": "Mowaihat",
+    "district_ar": "المويهات 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Steel Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Agriculture Waste",
+    "percentage": 5.0
+  },
+  {
+    "district": "Aamra",
+    "district_ar": "العامرة",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 1.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Steel Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Zorah",
+    "district_ar": "الزورا",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 10.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Glass Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 8.0
+  },
+  {
+    "district": "Rashideya 2",
+    "district_ar": "الراشدية 2",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 9.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 19.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 2.0
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 7.000000000000001
+  },
+  {
+    "district": "Nakheel",
+    "district_ar": "النخيل 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 2.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 3.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Glass Items",
+    "percentage": 4.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Agriculture Waste",
+    "percentage": 4.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Electronic items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Bahya",
+    "district_ar": "الباهية",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 10.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Liwara",
+    "district_ar": "ليوارة 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 4.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 5.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Organic Items",
+    "percentage": 40.0
+  },
+  {
+    "district": "Mohammed Bin Zayed 2",
+    "district_ar": "محمد بن زايد 2",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 9.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 19.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 9.0
+  },
+  {
+    "district": "Rumaila",
+    "district_ar": "الرميلة 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 2.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 4.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Steel Items",
+    "percentage": 12.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rashideya 1",
+    "district_ar": "الراشدية 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 10.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Glass Items",
+    "percentage": 6.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 0.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Jurf",
+    "district_ar": "الجرف 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 0.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 49.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 9.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Agriculture Waste",
+    "percentage": 1.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Ajman Free Zone",
+    "district_ar": "عجمان الحرة 1",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 0.0
+  },
+  {
+    "district": "Aalia",
+    "district_ar": "العالية",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 3.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 10.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 13.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 1.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 0.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Organic Items",
+    "percentage": 34.0
+  },
+  {
+    "district": "Rashideya 3",
+    "district_ar": "الراشدية 3",
+    "waste_type": "Animal Manure and Remains",
+    "percentage": 0.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 4.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Wood and Burnable Items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Steel Items",
+    "percentage": 4.0
+  },
+  {
+    "district": "Nuaimeya",
+    "district_ar": "النعيمية 1",
+    "waste_type": "Organic Items",
+    "percentage": 24.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 10.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 5.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Glass Items",
+    "percentage": 3.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Zahya",
+    "district_ar": "الزاهية",
+    "waste_type": "Agriculture Waste",
+    "percentage": 5.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 18.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 3.0
+  },
+  {
+    "district": "Ragayeb",
+    "district_ar": "الرقايب 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 3.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Paper Packaging and Boxes",
+    "percentage": 49.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Plastic Containers and Pipe",
+    "percentage": 9.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Clothing, Curtains and Footwear",
+    "percentage": 1.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Glass Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Steel Items",
+    "percentage": 2.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Uncategorized Mix items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Mushairif and Safia",
+    "district_ar": "مشيرف",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 0.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Concrete and Sand items",
+    "percentage": 4.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Tallah 1",
+    "district_ar": "التلة 1",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Bags and Wrapping Films",
+    "percentage": 14.000000000000002
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Aluminium Cans and Foil",
+    "percentage": 2.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Agriculture Waste",
+    "percentage": 9.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Electronic items",
+    "percentage": 0.0
+  },
+  {
+    "district": "Tallah 2",
+    "district_ar": "التلة 2",
+    "waste_type": "Empty Cleaner and Washing Bottles",
+    "percentage": 1.0
+  }
+]

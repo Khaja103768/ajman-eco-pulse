@@ -1,0 +1,870 @@
+[
+  {
+    "year": 2015,
+    "month": "January",
+    "date": "2015-01",
+    "quantity": 50603.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2015,
+    "month": "February",
+    "date": "2015-02",
+    "quantity": 49612.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2015,
+    "month": "March",
+    "date": "2015-03",
+    "quantity": 57650.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2015,
+    "month": "April",
+    "date": "2015-04",
+    "quantity": 54842.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2015,
+    "month": "May",
+    "date": "2015-05",
+    "quantity": 70969.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2015,
+    "month": "June",
+    "date": "2015-06",
+    "quantity": 55095.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2015,
+    "month": "July",
+    "date": "2015-07",
+    "quantity": 53335.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2015,
+    "month": "August",
+    "date": "2015-08",
+    "quantity": 62273.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2015,
+    "month": "September",
+    "date": "2015-09",
+    "quantity": 59912.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2015,
+    "month": "October",
+    "date": "2015-10",
+    "quantity": 56883.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2015,
+    "month": "November",
+    "date": "2015-11",
+    "quantity": 84650.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2015,
+    "month": "December",
+    "date": "2015-12",
+    "quantity": 72212.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "January",
+    "date": "2016-01",
+    "quantity": 92221.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "February",
+    "date": "2016-02",
+    "quantity": 90376.468,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "March",
+    "date": "2016-03",
+    "quantity": 93036.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "April",
+    "date": "2016-04",
+    "quantity": 89494.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "May",
+    "date": "2016-05",
+    "quantity": 97681.622,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "June",
+    "date": "2016-06",
+    "quantity": 87080.124,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "July",
+    "date": "2016-07",
+    "quantity": 77861.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "August",
+    "date": "2016-08",
+    "quantity": 85772.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "September",
+    "date": "2016-09",
+    "quantity": 80508.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "October",
+    "date": "2016-10",
+    "quantity": 98507.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "November",
+    "date": "2016-11",
+    "quantity": 107424.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2016,
+    "month": "December",
+    "date": "2016-12",
+    "quantity": 110652.73000000001,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "January",
+    "date": "2017-01",
+    "quantity": 127697.96,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "February",
+    "date": "2017-02",
+    "quantity": 128580.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "March",
+    "date": "2017-03",
+    "quantity": 142287.015,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "April",
+    "date": "2017-04",
+    "quantity": 134507.46,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "May",
+    "date": "2017-05",
+    "quantity": 118271.06000000001,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "June",
+    "date": "2017-06",
+    "quantity": 102907.17100000002,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "July",
+    "date": "2017-07",
+    "quantity": 152847.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "August",
+    "date": "2017-08",
+    "quantity": 145383.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "September",
+    "date": "2017-09",
+    "quantity": 143656.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "October",
+    "date": "2017-10",
+    "quantity": 185375.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "November",
+    "date": "2017-11",
+    "quantity": 191170.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2017,
+    "month": "December",
+    "date": "2017-12",
+    "quantity": 182119.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "January",
+    "date": "2018-01",
+    "quantity": 179480.84999999998,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "February",
+    "date": "2018-02",
+    "quantity": 169931.597,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "March",
+    "date": "2018-03",
+    "quantity": 167846.65000000002,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "April",
+    "date": "2018-04",
+    "quantity": 158674.58,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "May",
+    "date": "2018-05",
+    "quantity": 144800.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "June",
+    "date": "2018-06",
+    "quantity": 57163.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "July",
+    "date": "2018-07",
+    "quantity": 70946.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "August",
+    "date": "2018-08",
+    "quantity": 61170.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "September",
+    "date": "2018-09",
+    "quantity": 48755.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "October",
+    "date": "2018-10",
+    "quantity": 61952.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "November",
+    "date": "2018-11",
+    "quantity": 60528.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2018,
+    "month": "December",
+    "date": "2018-12",
+    "quantity": 54868.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2019,
+    "month": "January",
+    "date": "2019-01",
+    "quantity": 60000.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2019,
+    "month": "February",
+    "date": "2019-02",
+    "quantity": 69012.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2019,
+    "month": "March",
+    "date": "2019-03",
+    "quantity": 84536.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2019,
+    "month": "April",
+    "date": "2019-04",
+    "quantity": 84747.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2019,
+    "month": "May",
+    "date": "2019-05",
+    "quantity": 79656.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2019,
+    "month": "June",
+    "date": "2019-06",
+    "quantity": 87913.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2019,
+    "month": "July",
+    "date": "2019-07",
+    "quantity": 87051.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2019,
+    "month": "August",
+    "date": "2019-08",
+    "quantity": 86464.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2019,
+    "month": "September",
+    "date": "2019-09",
+    "quantity": 90120.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2019,
+    "month": "October",
+    "date": "2019-10",
+    "quantity": 102450.0,
+    "status": "resolved-formatting-conflict"
+  },
+  {
+    "year": 2019,
+    "month": "November",
+    "date": "2019-11",
+    "quantity": 93511.0,
+    "status": "resolved-formatting-conflict"
+  },
+  {
+    "year": 2019,
+    "month": "December",
+    "date": "2019-12",
+    "quantity": 89067.0,
+    "status": "resolved-formatting-conflict"
+  },
+  {
+    "year": 2020,
+    "month": "January",
+    "date": "2020-01",
+    "quantity": 89882.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2020,
+    "month": "February",
+    "date": "2020-02",
+    "quantity": 95560.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2020,
+    "month": "March",
+    "date": "2020-03",
+    "quantity": 92606.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2020,
+    "month": "April",
+    "date": "2020-04",
+    "quantity": 82353.7,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2020,
+    "month": "May",
+    "date": "2020-05",
+    "quantity": 77885.9,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2020,
+    "month": "September",
+    "date": "2020-09",
+    "quantity": 93659.2,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2020,
+    "month": "October",
+    "date": "2020-10",
+    "quantity": 110997.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2020,
+    "month": "November",
+    "date": "2020-11",
+    "quantity": 104494.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2020,
+    "month": "December",
+    "date": "2020-12",
+    "quantity": 103576.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "January",
+    "date": "2021-01",
+    "quantity": 112617.4,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "February",
+    "date": "2021-02",
+    "quantity": 109914.5,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "March",
+    "date": "2021-03",
+    "quantity": 125785.9,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "April",
+    "date": "2021-04",
+    "quantity": 103965.9,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "May",
+    "date": "2021-05",
+    "quantity": 93751.8,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "June",
+    "date": "2021-06",
+    "quantity": 89412.8,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "July",
+    "date": "2021-07",
+    "quantity": 77987.9,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "August",
+    "date": "2021-08",
+    "quantity": 80980.7,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "September",
+    "date": "2021-09",
+    "quantity": 100165.9,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "October",
+    "date": "2021-10",
+    "quantity": 107630.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "November",
+    "date": "2021-11",
+    "quantity": 101713.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2021,
+    "month": "December",
+    "date": "2021-12",
+    "quantity": 90095.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "January",
+    "date": "2022-01",
+    "quantity": 108149.3,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "February",
+    "date": "2022-02",
+    "quantity": 100012.5,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "March",
+    "date": "2022-03",
+    "quantity": 105212.9,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "April",
+    "date": "2022-04",
+    "quantity": 205443.3,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "May",
+    "date": "2022-05",
+    "quantity": 79845.9,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "June",
+    "date": "2022-06",
+    "quantity": 67062.4,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "July",
+    "date": "2022-07",
+    "quantity": 94742.3,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "August",
+    "date": "2022-08",
+    "quantity": 107856.2,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "September",
+    "date": "2022-09",
+    "quantity": 94833.2,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "October",
+    "date": "2022-10",
+    "quantity": 96657.9,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "November",
+    "date": "2022-11",
+    "quantity": 95975.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2022,
+    "month": "December",
+    "date": "2022-12",
+    "quantity": 99409.7,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2023,
+    "month": "January",
+    "date": "2023-01",
+    "quantity": 92966.5,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2023,
+    "month": "February",
+    "date": "2023-02",
+    "quantity": 94784.8,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2023,
+    "month": "March",
+    "date": "2023-03",
+    "quantity": 99990.1,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2023,
+    "month": "April",
+    "date": "2023-04",
+    "quantity": 76495.5,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2023,
+    "month": "July",
+    "date": "2023-07",
+    "quantity": 98777.7,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2023,
+    "month": "August",
+    "date": "2023-08",
+    "quantity": 91129.3,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2023,
+    "month": "September",
+    "date": "2023-09",
+    "quantity": 87884.8,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2023,
+    "month": "October",
+    "date": "2023-10",
+    "quantity": 94972.4,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2023,
+    "month": "November",
+    "date": "2023-11",
+    "quantity": 100086.2,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2023,
+    "month": "December",
+    "date": "2023-12",
+    "quantity": 91887.9,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "date": "2024-01",
+    "quantity": 88704.2,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "date": "2024-02",
+    "quantity": 82504.4,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "date": "2024-03",
+    "quantity": 77225.6,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "date": "2024-04",
+    "quantity": 74864.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "date": "2024-05",
+    "quantity": 99301.6,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "date": "2024-06",
+    "quantity": 96117.1,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "date": "2024-07",
+    "quantity": 110204.8,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "date": "2024-08",
+    "quantity": 105858.9,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "date": "2024-09",
+    "quantity": 100851.7,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "date": "2024-10",
+    "quantity": 115210.3,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "date": "2024-11",
+    "quantity": 117364.6,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "date": "2024-12",
+    "quantity": 122275.2,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "date": "2025-01",
+    "quantity": 104973.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "date": "2025-02",
+    "quantity": 94088.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "date": "2025-03",
+    "quantity": 90825.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "date": "2025-04",
+    "quantity": 103177.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "date": "2025-05",
+    "quantity": 120754.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "date": "2025-06",
+    "quantity": 101632.0,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "date": "2025-07",
+    "quantity": 106694.1,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "date": "2025-08",
+    "quantity": 110035.5,
+    "status": "verified-single-observation"
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "date": "2025-09",
+    "quantity": 109784.6,
+    "status": "verified-single-observation"
+  }
+]
