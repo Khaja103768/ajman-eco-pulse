@@ -43,6 +43,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 drawCityComposition(districts);
 drawDistrictExplorer(districts, mapData);
 drawDistrictComparison(districts);
+drawKeyFindings(districts);
 
 /* Start page motion after content exists */
 initializeScrollReveals();
